@@ -1,82 +1,162 @@
-# ☕ Coffee Shop Sales Analysis (Excel)
+# ☕ Coffee Shop Sales Analysis (Excel Dashboard Project)
 
 ## 📌 Project Overview
 
-This project focuses on analyzing **coffee shop retail sales data** to uncover trends, patterns, and actionable insights that can help improve business performance.
-The analysis was performed using **Microsoft Excel**, and the final insights are presented in a report and dashboard.
+This project focuses on analyzing **coffee shop sales data** to uncover trends, customer behavior, peak hours, best-selling products, and store performance.
+The entire analysis was performed using **Microsoft Excel**, and insights were visualized through an interactive dashboard.
+
+The goal of this project is to help stakeholders:
+
+* Identify peak sales periods
+* Understand product and category performance
+* Compare store locations
+* Improve business decisions using data
 
 ---
 
-## 🎯 Objective
+## 📊 Key Metrics from Dashboard
 
-The main objective of this project is to analyze retail sales data to gain **actionable insights** that will enhance the performance of the coffee shop.
-
----
-
-## 📊 Recommended Analysis (Key Business Questions)
-
-* How do sales vary by **day of the week** and **hour of the day**?
-* Are there any **peak times** for sales activity?
-* What is the **total sales revenue for each month**?
-* How do sales vary across **different store locations**?
-* What is the **average price/order per person**?
-* Which products are the **best-selling** and **low-performing**?
+| Metric                     | Value       |
+| -------------------------- | ----------- |
+| **Total Sales**            | $698,812.33 |
+| **Total Footfall**         | 149,116     |
+| **Average Bill / Person**  | $4.69       |
+| **Average Order / Person** | 1.44        |
 
 ---
 
-## 🛠 Tools Used
+## 🔍 Business Questions Answered
 
-* Microsoft Excel
-* Pivot Tables
-* Charts & Dashboards
-* Data Cleaning & Formatting
-* Time-based Analysis
+* How do sales vary by **hour of the day**?
+* What are the **peak sales hours**?
+* Which **categories contribute most to revenue**?
+* How does order **size distribution** look?
+* Which **store location performs best**?
+* What are the **top 5 selling products**?
+* Which **weekday has the highest orders**?
 
 ---
 
-## 📁 Project Structure
+## 📈 Dashboard Insights
 
-```
-Coffee-Shop-Sales-Analysis/
-│
-├── Coffee_Shop_Sales.xlsx
-├── Coffee_Shop_Dashboard.xlsx
-├── Coffee_Shop_Sales_Report.pdf
-└── README.md
-```
+### ⏰ Sales by Hour
+
+* Sales peak between **8 AM – 10 AM**.
+* Orders decline steadily after **11 AM**.
+* Lowest sales are after **7 PM**.
+
+### 🗂 Category Distribution (% of Sales)
+
+| Category                           | Contribution |
+| ---------------------------------- | ------------ |
+| Coffee                             | **39%**      |
+| Tea                                | **28%**      |
+| Bakery                             | 12%          |
+| Drinking Chocolate                 | 10%          |
+| Coffee Beans                       | 6%           |
+| Others (Flavours, Loose Tea, etc.) | <5% each     |
+
+➡️ **Coffee and Tea together contribute ~67% of total revenue.**
+
+---
+
+### 🧾 Size Distribution (% of Orders)
+
+| Size        | %   |
+| ----------- | --- |
+| Regular     | 31% |
+| Large       | 30% |
+| Not Defined | 30% |
+| Small       | 9%  |
+
+---
+
+### 🏪 Store Performance
+
+| Store Location  | Footfall | Sales        |
+| --------------- | -------- | ------------ |
+| Astoria         | 50,599   | $232,244     |
+| Hell’s Kitchen  | 50,735   | **$236,511** |
+| Lower Manhattan | 47,782   | $230,057     |
+
+➡️ **Hell’s Kitchen is the top-performing store.**
+
+---
+
+### 🥇 Top 5 Products by Sales
+
+| Product               | Sales   |
+| --------------------- | ------- |
+| Barista Espresso      | $91,406 |
+| Brewed Chai Tea       | $77,081 |
+| Hot Chocolate         | $72,416 |
+| Gourmet Brewed Coffee | $70,034 |
+| Brewed Black Tea      | $47,932 |
+
+---
+
+### 📅 Orders by Weekday
+
+| Day       | Orders               |
+| --------- | -------------------- |
+| Friday    | **21,701 (Highest)** |
+| Monday    | 21,643               |
+| Thursday  | 21,654               |
+| Tuesday   | 21,202               |
+| Wednesday | 21,310               |
+| Sunday    | 21,096               |
+| Saturday  | **20,510 (Lowest)**  |
+
 
 ---
 
 ## 🖼 Dashboard Preview
 
-<img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/55f8a5d8-5cce-42ed-b343-4c83053c26b1" />
-
+<img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/65d5f82d-6e5a-41f4-a407-b6392d8d50ba" />
 
 ---
 
-## 📈 Key Insights (Summary)
+## 🛠 Tools Used
 
-* Sales show clear **daily and hourly patterns** with strong peak periods.
-* Certain store locations generate **higher revenue** than others.
-* A small group of products contributes to a **large share of total sales**.
-* Monthly trends highlight **seasonal demand patterns**.
+* **Microsoft Excel**
+
+  * Pivot Tables
+  * Power Query
+  * Data Cleaning
+  * Charts & Slicers
+* **GitHub** for version control and documentation
+
+---
+
+## 📂 Files Included
+
+* `Coffee Shop Sales Dashboard.xlsx`
+* `Coffee Shop Sales Analysis.pdf`
+* `README.md`
 
 ---
 
 ## 🚀 Conclusion
 
-This project demonstrates how Excel can be used as a powerful tool for **retail sales analytics**, helping businesses make data-driven decisions.
+This analysis provides clear insights into:
+
+* Peak business hours
+* Best-selling products
+* Store-wise performance
+* Customer ordering behavior
+
+These insights can help improve **staffing, inventory planning, marketing strategy, and revenue growth.**
 
 ---
 
-## 👤 Author
+👤 Author
+Gagan Singh Aspiring Data Analyst
 
-**Gagan Singh**
-Aspiring Data Analyst
+🔗 GitHub: https://github.com/gagansingh2007 🔗 LinkedIn: https://www.linkedin.com/in/gagan-singh-8389b9283/
 
-🔗 GitHub: *https://github.com/gagansingh2007*
-🔗 LinkedIn: *https://www.linkedin.com/in/gagan-singh-8389b9283/*
+---
 
+## 📬 Feedback
 
-
+If you have any suggestions or would like to collaborate, feel free to connect!
 
