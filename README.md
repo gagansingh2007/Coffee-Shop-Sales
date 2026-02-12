@@ -47,7 +47,7 @@ Coffee-Shop-Sales-Analysis/
 
 ---
 
-## 🖼 Dashboard Screenshot
+## 🖼 Dashboard Preview
 
 <img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/55f8a5d8-5cce-42ed-b343-4c83053c26b1" />
 
