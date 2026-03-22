@@ -16,7 +16,7 @@ The goal of this project is to help stakeholders:
 
 ## 🖼 Dashboard Preview
 
-<img https://github.com/gagansingh2007/Coffee-Shop-Sales/blob/20be7211922113bfb703884538baeb54a84ee54c/Coffee%20Shop%20Sales%20Dashboard.png />
+<img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/65d5f82d-6e5a-41f4-a407-b6392d8d50ba" />
 
 ---
 
