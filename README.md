@@ -14,6 +14,12 @@ The goal of this project is to help stakeholders:
 
 ---
 
+## 🖼 Dashboard Preview
+
+<img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/65d5f82d-6e5a-41f4-a407-b6392d8d50ba" />
+
+---
+
 ## 📊 Key Metrics from Dashboard
 
 | Metric                     | Value       |
@@ -106,13 +112,6 @@ The goal of this project is to help stakeholders:
 | Wednesday | 21,310               |
 | Sunday    | 21,096               |
 | Saturday  | **20,510 (Lowest)**  |
-
-
----
-
-## 🖼 Dashboard Preview
-
-<img width="1853" height="877" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/65d5f82d-6e5a-41f4-a407-b6392d8d50ba" />
 
 ---
 
